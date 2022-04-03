@@ -14329,72 +14329,6 @@
 	<div class="data-wrapper">
 	<!-- img -->
 		<div class="img">
-			<a href=/car/1598/Citroen-e-Jumpy-Combi-XL-75-kWh><img src="/img/common/ajax-loader.gif" data-src-retina="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb@2x.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" alt="Citroen e-Jumpy Combi XL 75 kWh"/></a>		</div>
-					
-	<!-- item-data -->
-		<div class="title-wrap">
-			<h2><a href="/car/1598/Citroen-e-Jumpy-Combi-XL-75-kWh" class="title"><span class="citroen">Citroen</span> <span class="model">e-Jumpy Combi XL 75 kWh</span></a></h2><span class="date_from hidden">1604185200</span><span class="rank hidden">60</span><span class="id hidden">1598</span><span class="current"></span>
-      <div class="subtitle">
-          Battery Electric Vehicle | 
-					<span class="battery">65</span> kWh *
-              </div>		
-
-		</div>
-
-		<div class="icons">
-			<span class="tow-hitch hidden">Towbar possible</span><span title="Towbar possible" class="fas fa-trailer"></span><span title="Towing capacity in kg" class="towweight">1000</span><span title="Front Wheel Drive"><span class="voor fas fa-circle" style="padding-left: 10px; margin-right: -3px;"></span>
-				<span class="voor far fa-circle"></span></span><span title="plug-type2-ccs" class="plug-type2-ccs hidden">Type 2 CCS</span><span class="shape-spv hidden">SPV</span><span title="Market Segment" class="size-n" style="padding-left: 10px;">N</span><span title="Number of seats" class="seats-7 fas fa-user" style="padding-left: 10px;"></span><span title="Number of seats">9</span>						
-		</div>
-
-		<div class="specs">				
-			<p class="left">
-				<span class="tag">0 - 100</span>
-				<span class="acceleration">13.3 sec</span>
-			</p>
-
-			<p class="left">
-				<span class="tag">Top Speed</span>
-				<span class="topspeed">130 km/h</span>
-			</p>																																																							
-
-			<p class="left">
-				<span class="tag">Range*</span>
-				<span class="erange_real">250 km</span>
-			</p>															
-
-			<p class="left">
-				<span class="tag">Efficiency*</span>
-				<span class="efficiency">260 Wh/km</span>
-			</p>		
-
-  		<p class="left">
-				<span class="tag">Fastcharge</span>
-				<span class="fastcharge_speed_print">290 km/h</span>
-				<span class="fastcharge_speed hidden">290</span>
-			</p>
-		</div>
-
-		<div class="pricing align-right">								
-						<span class="price_buy">
-				<span class="country_de" title="Price in Germany before incentives">€56,980</span>
-				<span class="flag-icon flag-icon-de"></span>
-			</span>
-						
-			<span class="price_buy">
-				<span class="country_nl" title="Price in The Netherlands before incentives">€55,730</span>
-				<span class="flag-icon flag-icon-nl"></span>
-			</span>
-			<span class="price_buy">
-				<span class="country_uk" title="Price in the United Kingdom after incentives">N/A</span>
-				<span class="flag-icon flag-icon-gb"></span>
-			</span>
-						
-			<span class="price price_filter60-80 hidden">1.07</span>		</div>
-	</div>									
-</div><div class="list-item">					
-	<div class="data-wrapper">
-	<!-- img -->
-		<div class="img">
 			<a href=/car/1621/Porsche-Taycan-Sport-Turismo><img src="/img/common/ajax-loader.gif" data-src-retina="/img/auto/Porsche_Taycan_Sport_Turismo/Porsche_Taycan_Sport_Turismo-01-thumb@2x.jpg" data-src="/img/auto/Porsche_Taycan_Sport_Turismo/Porsche_Taycan_Sport_Turismo-01-thumb.jpg" data-src="/img/auto/Porsche_Taycan_Sport_Turismo/Porsche_Taycan_Sport_Turismo-01-thumb.jpg" data-src="/img/auto/Porsche_Taycan_Sport_Turismo/Porsche_Taycan_Sport_Turismo-01-thumb.jpg" alt="Porsche Taycan Sport Turismo"/></a>		</div>
 					
 	<!-- item-data -->
@@ -14456,6 +14390,72 @@
 			</span>
 						
 			<span class="price price_filter80-100 hidden">1.67</span>		</div>
+	</div>									
+</div><div class="list-item">					
+	<div class="data-wrapper">
+	<!-- img -->
+		<div class="img">
+			<a href=/car/1598/Citroen-e-Jumpy-Combi-XL-75-kWh><img src="/img/common/ajax-loader.gif" data-src-retina="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb@2x.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" alt="Citroen e-Jumpy Combi XL 75 kWh"/></a>		</div>
+					
+	<!-- item-data -->
+		<div class="title-wrap">
+			<h2><a href="/car/1598/Citroen-e-Jumpy-Combi-XL-75-kWh" class="title"><span class="citroen">Citroen</span> <span class="model">e-Jumpy Combi XL 75 kWh</span></a></h2><span class="date_from hidden">1604185200</span><span class="rank hidden">60</span><span class="id hidden">1598</span><span class="current"></span>
+      <div class="subtitle">
+          Battery Electric Vehicle | 
+					<span class="battery">65</span> kWh *
+              </div>		
+
+		</div>
+
+		<div class="icons">
+			<span class="tow-hitch hidden">Towbar possible</span><span title="Towbar possible" class="fas fa-trailer"></span><span title="Towing capacity in kg" class="towweight">1000</span><span title="Front Wheel Drive"><span class="voor fas fa-circle" style="padding-left: 10px; margin-right: -3px;"></span>
+				<span class="voor far fa-circle"></span></span><span title="plug-type2-ccs" class="plug-type2-ccs hidden">Type 2 CCS</span><span class="shape-spv hidden">SPV</span><span title="Market Segment" class="size-n" style="padding-left: 10px;">N</span><span title="Number of seats" class="seats-7 fas fa-user" style="padding-left: 10px;"></span><span title="Number of seats">9</span>						
+		</div>
+
+		<div class="specs">				
+			<p class="left">
+				<span class="tag">0 - 100</span>
+				<span class="acceleration">13.3 sec</span>
+			</p>
+
+			<p class="left">
+				<span class="tag">Top Speed</span>
+				<span class="topspeed">130 km/h</span>
+			</p>																																																							
+
+			<p class="left">
+				<span class="tag">Range*</span>
+				<span class="erange_real">250 km</span>
+			</p>															
+
+			<p class="left">
+				<span class="tag">Efficiency*</span>
+				<span class="efficiency">260 Wh/km</span>
+			</p>		
+
+  		<p class="left">
+				<span class="tag">Fastcharge</span>
+				<span class="fastcharge_speed_print">290 km/h</span>
+				<span class="fastcharge_speed hidden">290</span>
+			</p>
+		</div>
+
+		<div class="pricing align-right">								
+						<span class="price_buy">
+				<span class="country_de" title="Price in Germany before incentives">€56,980</span>
+				<span class="flag-icon flag-icon-de"></span>
+			</span>
+						
+			<span class="price_buy">
+				<span class="country_nl" title="Price in The Netherlands before incentives">€55,730</span>
+				<span class="flag-icon flag-icon-nl"></span>
+			</span>
+			<span class="price_buy">
+				<span class="country_uk" title="Price in the United Kingdom after incentives">N/A</span>
+				<span class="flag-icon flag-icon-gb"></span>
+			</span>
+						
+			<span class="price price_filter60-80 hidden">1.07</span>		</div>
 	</div>									
 </div><div class="list-item">					
 	<div class="data-wrapper">
@@ -16309,11 +16309,11 @@
 	<div class="data-wrapper">
 	<!-- img -->
 		<div class="img">
-			<a href=/car/1340/Citroen-e-SpaceTourer-XS-50-kWh><img src="/img/common/ajax-loader.gif" data-src-retina="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb@2x.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" alt="Citroen e-SpaceTourer XS 50 kWh"/></a>		</div>
+			<a href=/car/1350/Peugeot-e-Traveller-Compact-50-kWh><img src="/img/common/ajax-loader.gif" data-src-retina="/img/auto/Peugeot_e-Traveller/Peugeot_e-Traveller-01-thumb@2x.jpg" data-src="/img/auto/Peugeot_e-Traveller/Peugeot_e-Traveller-01-thumb.jpg" data-src="/img/auto/Peugeot_e-Traveller/Peugeot_e-Traveller-01-thumb.jpg" data-src="/img/auto/Peugeot_e-Traveller/Peugeot_e-Traveller-01-thumb.jpg" alt="Peugeot e-Traveller Compact 50 kWh"/></a>		</div>
 					
 	<!-- item-data -->
 		<div class="title-wrap">
-			<h2><a href="/car/1340/Citroen-e-SpaceTourer-XS-50-kWh" class="title"><span class="citroen">Citroen</span> <span class="model">e-SpaceTourer XS 50 kWh</span></a></h2><span class="date_from hidden">1604185200</span><span class="rank hidden">30</span><span class="id hidden">1340</span><span class="current"></span>
+			<h2><a href="/car/1350/Peugeot-e-Traveller-Compact-50-kWh" class="title"><span class="peugeot">Peugeot</span> <span class="model">e-Traveller Compact 50 kWh</span></a></h2><span class="date_from hidden">1609455600</span><span class="rank hidden">30</span><span class="id hidden">1350</span><span class="current"></span>
       <div class="subtitle">
           Battery Electric Vehicle | 
 					<span class="battery">45</span> kWh *
@@ -16375,11 +16375,11 @@
 	<div class="data-wrapper">
 	<!-- img -->
 		<div class="img">
-			<a href=/car/1350/Peugeot-e-Traveller-Compact-50-kWh><img src="/img/common/ajax-loader.gif" data-src-retina="/img/auto/Peugeot_e-Traveller/Peugeot_e-Traveller-01-thumb@2x.jpg" data-src="/img/auto/Peugeot_e-Traveller/Peugeot_e-Traveller-01-thumb.jpg" data-src="/img/auto/Peugeot_e-Traveller/Peugeot_e-Traveller-01-thumb.jpg" data-src="/img/auto/Peugeot_e-Traveller/Peugeot_e-Traveller-01-thumb.jpg" alt="Peugeot e-Traveller Compact 50 kWh"/></a>		</div>
+			<a href=/car/1340/Citroen-e-SpaceTourer-XS-50-kWh><img src="/img/common/ajax-loader.gif" data-src-retina="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb@2x.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" data-src="/img/auto/Citroen_e-SpaceTourer/Citroen_e-SpaceTourer-01-thumb.jpg" alt="Citroen e-SpaceTourer XS 50 kWh"/></a>		</div>
 					
 	<!-- item-data -->
 		<div class="title-wrap">
-			<h2><a href="/car/1350/Peugeot-e-Traveller-Compact-50-kWh" class="title"><span class="peugeot">Peugeot</span> <span class="model">e-Traveller Compact 50 kWh</span></a></h2><span class="date_from hidden">1609455600</span><span class="rank hidden">30</span><span class="id hidden">1350</span><span class="current"></span>
+			<h2><a href="/car/1340/Citroen-e-SpaceTourer-XS-50-kWh" class="title"><span class="citroen">Citroen</span> <span class="model">e-SpaceTourer XS 50 kWh</span></a></h2><span class="date_from hidden">1604185200</span><span class="rank hidden">30</span><span class="id hidden">1340</span><span class="current"></span>
       <div class="subtitle">
           Battery Electric Vehicle | 
 					<span class="battery">45</span> kWh *
